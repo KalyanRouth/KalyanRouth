@@ -46,4 +46,8 @@ https://accounts.google.com/v3/signin/identifier?dsh=S-788459969%3A1677008936184
 
 Home page: https://lists.owasp.org/index
 
+https://github.com/OWASP/wstg
+
+[https://github.com/OWASP/wstg](https://owasp-slack.herokuapp.com/)
+
 --Last Line is 49--
