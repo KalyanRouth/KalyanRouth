@@ -24,7 +24,7 @@ https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_
 
 https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
 
-WSTG Links:
+**WSTG Links:**
 
 https://owasp.org/www-project-web-security-testing-guide/
 
