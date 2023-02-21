@@ -30,4 +30,20 @@ https://owasp.org/www-project-web-security-testing-guide/
 
 https://owasp.org/www-project-web-security-testing-guide/v42/
 
---Last Line is 33--
+OWASP Piper mail index:
+
+https://owasp.org/www-project-web-security-testing-guide/  -> Archives
+
+Historical archives of the Mailman owasp-testing mailing list are available to view or download. -->https://lists.owasp.org/pipermail/owasp-testing/index
+
+https://lists.owasp.org/pipermail/owasp-testing/index 
+
+You can get more information about this list. -> https://lists.owasp.org/mailman/listinfo/owasp-testing
+
+https://groups.google.com/a/owasp.org/forum/#!overview  --> Google
+
+https://accounts.google.com/v3/signin/identifier?dsh=S-788459969%3A1677008936184738&continue=https%3A%2F%2Fgroups.google.com%2Fmy-groups&followup=https%3A%2F%2Fgroups.google.com%2Fmy-groups&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AWnogHdfWmgT01RJ6mwcehS0KmCSmJ3q12hdjvKjs23-VnewaCo5qWYYrG-KRGvTkHrsRdVfZTwN
+
+Home page: https://lists.owasp.org/index
+
+--Last Line is 49--
