@@ -17,3 +17,9 @@ https://owasp.org/www-project-top-ten/2017/Release_Notes
 https://owasp.org/Top10/
 
 https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/
+
+https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
+
+https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
+
+https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
