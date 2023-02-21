@@ -30,6 +30,8 @@ https://owasp.org/www-project-web-security-testing-guide/
 
 https://owasp.org/www-project-web-security-testing-guide/v42/
 
+https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/06-Session_Management_Testing/01-Testing_for_Session_Management_Schema
+
 OWASP Piper mail index:
 
 https://owasp.org/www-project-web-security-testing-guide/  -> Archives
@@ -51,5 +53,10 @@ https://github.com/OWASP/wstg
 [https://github.com/OWASP/wstg]
 
 (https://owasp-slack.herokuapp.com/)
+
+**Heroku**
+
+https://www.heroku.com/home
+https://developer.salesforce.com/
 
 --Last Line is 55--
