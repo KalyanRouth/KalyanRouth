@@ -48,6 +48,8 @@ Home page: https://lists.owasp.org/index
 
 https://github.com/OWASP/wstg
 
-[https://github.com/OWASP/wstg](https://owasp-slack.herokuapp.com/)
+[https://github.com/OWASP/wstg]
 
---Last Line is 49--
+(https://owasp-slack.herokuapp.com/)
+
+--Last Line is 55--
