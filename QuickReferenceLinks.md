@@ -23,3 +23,7 @@ https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_
 https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html
 
 https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
+
+https://owasp.org/www-project-web-security-testing-guide/v42/
+
+--Last Line is 29--
