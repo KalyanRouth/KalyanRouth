@@ -13,7 +13,7 @@ pentester
 
 MR.Robot - `https://github.com/mr.robot` - "This page isn’t workingIf the problem continues, contact the site owner. HTTP ERROR 406"
 
-MRRobot
+MRRobot - `https://github.com/mrrobot`
 
 CyberSecurity
 
