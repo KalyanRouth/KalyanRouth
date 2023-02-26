@@ -16,6 +16,8 @@ MRRobot - `https://github.com/mrrobot`
 
 CyberSecurity
 
+SecurityVoid
+
 global
 
 GlobalSecurity
