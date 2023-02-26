@@ -4,17 +4,31 @@
 -
 hack
 
-hacker
+hacker, hacking, ihacker, iRedTeam, iRedTeamer, iRedTeamSecurity
 
-pentest
+pentest, penetrationtest, ipentest, ipenetrationtest, 
 
-pentester
+pentester, penetrationtester, ipentester, ipenetrationtester, 
 
 MR.Robot - `https://github.com/mr.robot` - "This page isn’t workingIf the problem continues, contact the site owner. HTTP ERROR 406"
 
 MRRobot - `https://github.com/mrrobot`
 
 CyberSecurity
+
+global
+
+GlobalSecurity
+
+RedTeam (BlueTeam)
+
+RedTeamSecurity
+
+RedTeamHacker
+
+RedTeamPentester - taken
+
+RedTeaming, RedTeamer
 
 CyberSecurityProfessional
 
